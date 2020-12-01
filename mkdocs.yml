@@ -1,1 +1,14 @@
 site_name: cantina
+
+theme: material
+
+nav:
+    - Quienes somos: index.md
+    - Desayuno: desayuno.md
+    - Menú de medio día: comida.md
+    - Menú de noche: cena.md
+    - Más información: info.md 
+
+
+include_search_page: true
+copyright: Sergio Grima Bravo

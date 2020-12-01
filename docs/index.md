@@ -1,6 +1,9 @@
-# Welcome to MkDocs
+# Quienes somos
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Cantina del Instituto Pedralbes
+
+Aquí encontrarás productos de calidad y a muy buen precio para disfrutar.
+Tanto unos buenos desayunos como unos ricos platos para comer o cenar.
 
 ## Commands
 
