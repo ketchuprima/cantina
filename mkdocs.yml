@@ -3,11 +3,17 @@ site_name: cantina
 theme: material
 
 nav:
-    - Quienes somos: index.md
+    - La Cantina Pedralbes: index.md
     - Desayuno: desayuno.md
     - Menú de medio día: comida.md
     - Menú de noche: cena.md
-    - Más información: info.md 
+    - About: about.md 
+
+extra:
+    social:
+        - icon: fontawesome/brands/instagram 
+        - icon: fontawesome/brands/twitter
+        - icon: fontawesome/brands/github
 
 
 include_search_page: true
